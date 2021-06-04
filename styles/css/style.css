@@ -1,0 +1,10 @@
+body {
+  background-color: cadetblue;
+}
+body .titulo {
+  text-align: center;
+  font-size: 40px;
+  margin-top: 10px;
+}
+
+/*# sourceMappingURL=style.css.map */
